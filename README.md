@@ -1,2 +1,2 @@
 # portfolio
-learn how to use git
+It's my portfolio in 2020.
